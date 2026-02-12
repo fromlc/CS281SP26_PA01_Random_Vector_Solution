@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CS281SP26_PA01_Random_Vector_Solution/CS281SP26_PA01_Random_Vector_Solution.vcxproj" />
+</Solution>
